@@ -1,5 +1,5 @@
 const getUsersHandler = (req, res) => {
-  res.send("Solicitando a todos los usuarios");
+  res.send("la info de todos los usuarios");
 };
 
 const getUserByIdHandler = (req, res) => {
